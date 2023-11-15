@@ -121,7 +121,7 @@ public class Game {
 		return longDescription;
 	}
 
-	public void setLongDescripition(String longDescrispition) {
+	public void setLongDescripition(String longDescription) {
 		this.longDescription = longDescription;
 	}
 
